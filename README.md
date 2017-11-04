@@ -1,2 +1,1 @@
-# blog
-Jekyll Blog
+# Code for 3LN posts
