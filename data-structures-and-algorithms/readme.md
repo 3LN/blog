@@ -1,2 +1,2 @@
 
-This directory contains implementations of common data structures and algorihtms in Python 3.6.
+This directory contains implementations of common data structures and algorithms in Python 3.6.
